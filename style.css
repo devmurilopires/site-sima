@@ -465,7 +465,6 @@ footer {
   padding: 20px;
 }
 
-/* Botão hamburguer */
 .menu-toggle {
   display: none;
   font-size: 2rem;
@@ -476,7 +475,6 @@ footer {
   z-index: 1001;
 }
 
-/* Mobile */
 @media (max-width: 768px) {
   nav ul {
     position: absolute;
